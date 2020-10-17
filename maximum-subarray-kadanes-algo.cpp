@@ -41,4 +41,5 @@ int main(){
 	for(int i{0}; i < length; i++)
 		std::cin >> arr[i];
 	printMaxSubArray(arr);
+	return 0;
 }
